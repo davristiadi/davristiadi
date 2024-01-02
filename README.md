@@ -1,7 +1,16 @@
-### Hi there 👋
+# 🚀 David Kurnia Kristiadi 🚀
+
+Software Enginner at GoTo Financial. Currently working/have worked with these amazing teams:
+- Consumer Lending – GoPay Later Tokopedia Squad
+- Consumer Lending – GoPay Later GGD
+- Commerce Enablement - ProEng Front-end
+
+## Expertise
+- **Web Development**: React, Next, Redux, TailwindCSS
+- **Mobile Development**: Flutter
 
 <!--
-**davristiadi/davristiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**davistiadi/davistiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

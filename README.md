@@ -1,4 +1,4 @@
-# 🚀 David Kurnia Kristiadi 🚀
+# 🚀 David Kurnia Kristiadi
 
 Software Enginner at GoTo Financial. Currently working/have worked with these amazing teams:
 - Consumer Lending – GoPay Later Tokopedia Squad

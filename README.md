@@ -5,9 +5,16 @@ Software Enginner at GoTo Financial. Currently working/have worked with these am
 - Consumer Lending – GoPay Later GGD
 - Commerce Enablement - ProEng Front-end
 
-## Technologies
+## Contributions
+Currently contributing/have contributed in these products:
+- GoPayLater Web
+- GoPayLater SDK
+- Tiktok Paylater Web
+- Moka Backoffice
+
+## Stacks/Technologies
 - **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Next, Redux, TailwindCSS 
-- **Mobile Development**: Flutter
+- **Mobile Development**: Flutter, Dart, Riverpod
 
 <!--
 **davistiadi/davistiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

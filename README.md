@@ -14,9 +14,9 @@
 ```
 
 Software Enginner at GoTo Financial. Currently working/have worked with these amazing teams:
-- Consumer Lending – GoPay Later Tokopedia Squad
-- Consumer Lending – GoPay Later GGD
-- Commerce Enablement - ProEng Front-end
+- Consumer Lending – GoPay Later GGD – Software Engineer
+- Consumer Lending – GoPay Later Tokopedia Squad - Frontend Engineer
+- Commerce Enablement - Productivity Frontend Engineer
 
 ## Contributions
 Currently contributing/have contributed in these products:

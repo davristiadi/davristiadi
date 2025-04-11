@@ -29,6 +29,11 @@ Currently contributing/have contributed in these products:
 - **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Next, Redux, TailwindCSS 
 - **Mobile Development**: Flutter, Dart, Riverpod
 
+## Tools & Workflow
+- **Mockups/Prototypes**: Excalidraw, Figma
+- **IDE**: VSCode Insiders, Cursor
+- **AI**: Roo Code, Gemini 2.5 Pro, Claude 3.7 Sonnet
+
 <!--
 **davistiadi/davistiadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

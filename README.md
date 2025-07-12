@@ -31,7 +31,7 @@ Currently contributing/have contributed in these products:
 
 ## Tools & Workflow
 - **Mockups/Prototypes**: Excalidraw, Figma
-- **IDE**: VSCode Insiders, Cursor
+- **IDE**: VSCode Insiders, Zed, Cursor
 - **AI**: Roo Code, Gemini 2.5 Pro, Claude 3.7 Sonnet
 
 <!--
